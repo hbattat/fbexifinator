@@ -1,0 +1,16 @@
+{
+  "name": "fbexifinator",
+  "version": "1.0.0",
+  "description": "Adds the image Exif date to downloaded Facebook images.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Battat",
+  "license": "MIT",
+  "dependencies": [
+    "commander",
+    "glob",
+    "piexifjs@1.0.4"
+  ]
+}
